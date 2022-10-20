@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge2\\AguilarFMiniChallenge2.csproj": {}
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/AguilarFMiniChallenge2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge2\\AguilarFMiniChallenge2.csproj": {
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/AguilarFMiniChallenge2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge2\\AguilarFMiniChallenge2.csproj",
+        "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/AguilarFMiniChallenge2.csproj",
         "projectName": "AguilarFMiniChallenge2",
-        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge2\\AguilarFMiniChallenge2.csproj",
-        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge2\\obj\\",
+        "projectPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/AguilarFMiniChallenge2.csproj",
+        "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
+        "outputPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

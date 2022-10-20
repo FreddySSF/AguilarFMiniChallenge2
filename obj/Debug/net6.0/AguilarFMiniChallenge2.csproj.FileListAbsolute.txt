@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/bin/Debug/net6.0/AguilarFMiniChallenge2
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/bin/Debug/net6.0/AguilarFMiniChallenge2.deps.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/bin/Debug/net6.0/AguilarFMiniChallenge2.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/bin/Debug/net6.0/AguilarFMiniChallenge2.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/bin/Debug/net6.0/AguilarFMiniChallenge2.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/refint/AguilarFMiniChallenge2.dll
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.pdb
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/AguilarFMiniChallenge2.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/GitRepository/AguilarFMiniChallenge2/obj/Debug/net6.0/ref/AguilarFMiniChallenge2.dll
