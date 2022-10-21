@@ -3,7 +3,7 @@
 // Mini Challenge 2 Add Two Numbers Endpoint
 // Recreating Mini Challenge 2 where the user chooses two numbers.
 // The program takes both inputs and adds them together. Adding data validation.
-// Peer Reviewed By: Marcel Rodriguez
+// Peer Reviewed By: Marcel Rodriguez - The program runs well. It has a replay function and data validation for ints. The instructions are clear so the right inputs are typed. Solid work!
     Console.Clear();
 
 Console.WriteLine(" let's do some quick maths! we will be adding two numbers together! ");
