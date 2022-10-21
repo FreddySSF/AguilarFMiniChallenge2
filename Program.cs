@@ -2,9 +2,8 @@
 // 10-18-22
 // Mini Challenge 2 Add Two Numbers Endpoint
 // Recreating Mini Challenge 2 where the user chooses two numbers.
-//The program takes both inputs and adds them together. Adding data validation.
-//---------------------------------------------------------------------//
-
+// The program takes both inputs and adds them together. Adding data validation.
+// Peer Reviewed By: Marcel Rodriguez
     Console.Clear();
 
 Console.WriteLine(" let's do some quick maths! we will be adding two numbers together! ");
